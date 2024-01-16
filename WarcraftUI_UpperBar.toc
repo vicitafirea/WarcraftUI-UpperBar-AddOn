@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: Warcraft 3 UI UpperBar
+## Notes: Parody/homage of the Warcraft 3 User Interface's Upper Bar: Game Menus and Resources.
+## Author: Queen Bitch of the Universe
+## Version: 1.0
+## X-Date: 09-08-2023
+## SavedVariables: WarcraftUI_UpperBar_Variables
+
+WarcraftUI_UpperBar.xml
+WarcraftUI_UpperBar.lua
